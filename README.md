@@ -102,3 +102,16 @@ This repository contains:
 ## Outcome
 
 The generated copy is ready to use for a real local business website and can help improve customer engagement and conversions.
+## Website Demo Screenshots
+
+### Homepage
+
+![Homepage](screenshots/homepage.png)
+
+### Services Page
+
+![Services](screenshots/sevices section.png)
+
+### CTA Section
+
+![CTA](screenshots/CTA Section.png)
