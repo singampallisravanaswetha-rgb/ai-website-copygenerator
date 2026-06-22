@@ -77,6 +77,17 @@ This helps AI generate more relevant and human-like website content.
 - AI Website Builders
 
 ---
+## Tone Adaptation
+
+The prompt system can adjust writing style based on business category.
+
+Examples:
+
+- Salon → Friendly and premium
+- Clinic → Professional and trustworthy
+- Cafe → Warm and inviting
+- Agency → Confident and expert
+
 
 ## Generated Content
 
