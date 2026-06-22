@@ -110,8 +110,8 @@ The generated copy is ready to use for a real local business website and can hel
 
 ### Services Page
 
-![Services](screenshots/sevices section.png)
+![Services](screenshots/servicessection.png)
 
 ### CTA Section
 
-![CTA](screenshots/CTA Section.png)
+![CTA](screenshots/CTASection.png)
